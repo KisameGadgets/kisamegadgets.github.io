@@ -1,6 +1,6 @@
 baseURL = 'https://b.hikari9153.com/'
 languageCode = 'ja-jp'
-title = 'H!KARI Hugo Site'
+title = "H!KARI's Hugo Site"
 theme = "paper"
 
 [caches]
