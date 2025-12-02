@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on H!KARI Hugo Site</title>
+    <link>https://b.hikari9153.com/posts/</link>
+    <description>Recent content in Posts on H!KARI Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 03 Dec 2025 00:23:02 +0900</lastBuildDate>
+    <atom:link href="https://b.hikari9153.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firstpost</title>
+      <link>https://b.hikari9153.com/posts/firstpost/</link>
+      <pubDate>Wed, 03 Dec 2025 00:23:02 +0900</pubDate>
+      <guid>https://b.hikari9153.com/posts/firstpost/</guid>
+      <description>&lt;p&gt;最近持て余してるサーバーがあるしなんとなくブログでも書こうかと思ったのでHugo始めてみました。&#xA;弐寺BMS関連かいていくのでよろしくお願いします。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
